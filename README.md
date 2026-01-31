@@ -8,7 +8,7 @@ All currently available data is **synthetic**, which means:
 - Easy scalability
 - Clean and consistent annotations
 
-> Non-synthetic (real-world) data is planned for the future and will be added once the donation goal is reached.
+> Non-synthetic (real-world) data is planned for the future and will be added on github.
 
 ---
 ## Roadmap
