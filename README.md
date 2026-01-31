@@ -8,17 +8,13 @@ All currently available data is **synthetic**, which means:
 - Easy scalability
 - Clean and consistent annotations
 
-> Non-synthetic (real-world) data is planned for the future and will be added on github.
+> Non-synthetic (real-world) data is planned for the future.
 
 ---
-## Roadmap
 
-With sufficient support, future updates will include:
-- Additional languages
-- More frequent releases
-- Non-synthetic OCR data
-
----
+## How to use the dataset ?
+For example the image contains words: "hello spaceship friendly" then the image name will be: "hello spaceship friendly_123.jpg"
+that's it.
 
 
 ## Support the Project
