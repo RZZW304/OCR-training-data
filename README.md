@@ -20,8 +20,6 @@ With sufficient support, future updates will include:
 
 ---
 
-##
-the dataset is on huggingface: ```https://huggingface.co/datasets/RZZW3004/OCR-free-dataset```
 
 ## Support the Project
 
